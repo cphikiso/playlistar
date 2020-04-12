@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create your own Spotify developer account. Start a project and use your own ClientId.
 
 ## Available Scripts
 
