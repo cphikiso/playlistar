@@ -1,5 +1,5 @@
 
-const  clientId = "afb5031b15cc4df39318f73f9e443ca0";
+const  clientId = "useOwnClientId"; 
 const redirectUri = "http://fanatical-eggs.surge.sh";
 
 
