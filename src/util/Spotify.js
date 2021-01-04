@@ -1,4 +1,4 @@
-const clientId = "afb5031b15cc4df39318f73f9e443ca0";
+const clientId = "184af67d8221401d95b31f95e0bdc9cf";
 const redirectUri = "https://infallible-sinoussi-96d85c.netlify.app";
 
 let accessToken;
